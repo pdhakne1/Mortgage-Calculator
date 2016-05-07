@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora de hipoteca</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="amount_borrowed">Cantidad Prestada ($)</string>
+    <string name="interest_rate">Tasa de interés (APR)</string>
+    <string name="loan_term">Plazo del préstamo (años)</string>
+    <string name="taxes_insurance">Impuestos y Seguros</string>
+    <string name="monthly_payment">Mensualidad</string>
+    <string name="calculate">Calcular</string>
+    <string name="include_montly_payment">Incluir en el pago mensual</string>
+    <string name="loan_term1">7</string>
+    <string name="loan_term2">15</string>
+    <string name="loan_term3">30</string>
+    <string name="seek_label_min">0</string>
+    <string name="seek_label_max">10</string>
+    <string name="seek_label_default">5</string>
+    <string name="seek_label_progress_val">5%</string>
+    <string name="radio_error_mssg">Por favor, seleccione el plazo del préstamo. </string>
+    <string name="amtBorrowed_error_mssg">Por favor, introduzca una cantidad válida. </string>
+</resources>
